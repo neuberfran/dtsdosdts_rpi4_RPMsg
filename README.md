@@ -2,6 +2,8 @@
 
 https://github.com/TImada/raspi4_freertos
 
+https://github.com/TImada/raspi4_freertos#2-prerequisites
+
 https://github.com/TImada/raspi4_freertos_rpmsg
 
 https://github.com/TImada/raspi4_freertos_rpmsg/blob/master/docs/freertos_build.md
